@@ -1,0 +1,7 @@
+trimesh
+pyrender
+ursina
+numpy<2.0
+opencv-python
+bpy
+panda3d
